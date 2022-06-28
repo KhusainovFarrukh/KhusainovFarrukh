@@ -20,7 +20,7 @@
 <a href="mailto:farrukhbekkhusainov@gmail.com">
   <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;
-<a href="https://www.linkedin.com/in/farrukh-khusainov-307820220/">
+<a href="www.linkedin.com/in/farrukh-khusainov">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;
 
