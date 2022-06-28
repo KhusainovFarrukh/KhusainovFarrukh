@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **android, spring boot, kotlin, java**
 
-- 📄 See my CV/Resume at **NullPointerException** (soon)
-
 - ⚡ I like **Coding, testing, fixing, testing, fixing**
 
 <h3 align="left">Connect with me:</h3>
