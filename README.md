@@ -25,7 +25,7 @@
 ## Stats
 <img src="https://github-readme-stats.vercel.app/api?username=khusainovfarrukh&count_private=true&show_icons=true&theme=vision-friendly-dark" alt="khusainovfarrukh" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=khusainovfarrukh&count_private=true&show_icons=true&theme=vision-friendly-dark" alt="khusainovfarrukh" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=khusainovfarrukh&count_private=true&show_icons=true&theme=vision-friendly-dark&layout=compact&hide=procfile" alt="khusainovfarrukh" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=khusainovfarrukh&count_private=true&show_icons=true&theme=vision-friendly-dark&layout=compact" alt="khusainovfarrukh" />
 
-<h3>The count of people who left there their Cookies</h3>
+<h3>The count of visitors who left there their Cookies</h3>
 <p align="left"> <img src="https://profile-counter.glitch.me/khusainovfarrukh/count.svg" alt="khusainovfarrukh" /> </p>
