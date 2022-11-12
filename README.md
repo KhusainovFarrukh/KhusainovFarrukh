@@ -1,7 +1,7 @@
 <h1>print("About Farrukh Khusainov")</h1>
 <h3>An experienced Android & unexperienced Java developer</h3>
 
-- 👨‍💻 Currently working on Progee ([REST API](https://github.com/KhusainovFarrukh/Progee-API) + [Android client](https://github.com/KhusainovFarrukh/Progee-Android)) project
+- 👨‍💻 Currently working on Progee ([REST API](https://github.com/KhusainovFarrukh/Progee-API) + [Android client](https://github.com/KhusainovFarrukh/Progee-Android)) and [BillyPay](https://github.com/KhusainovFarrukh/BillyPay) (REST API using Microservices architecture)
 
 - 📚 Currently learning **Spring Boot and Backend development**
 
