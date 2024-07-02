@@ -1,18 +1,18 @@
 <h1>print("About Farrukh Khusainov")</h1>
-<h3>An experienced Android & unexperienced Java developer</h3>
+<h3>Software Engineer</h3>
 
-- 👨‍💻 Currently working on Progee ([REST API](https://github.com/KhusainovFarrukh/Progee-API) + [Android client](https://github.com/KhusainovFarrukh/Progee-Android)) and [BillyPay](https://github.com/KhusainovFarrukh/BillyPay) (REST API using Microservices architecture)
+- 👨‍💻 Currently working on commercial projects
 
-- 📚 Currently learning **Spring Boot and Backend development**
+- 📚 Currently learning **Spring Framework and Advanced Java**
 
 - 👨‍💻 All of my projects are available at [my github repositories tab](https://github.com/KhusainovFarrukh?tab=repositories)
 
-- 💬 Ask me about **android, spring boot, kotlin, java**
+- 💬 Ask me about **android, spring, kotlin, java**
 
 - ⚡ I like **Coding, testing, fixing, testing, fixing**
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://t.me/FarruxXusainov">
+<a href="https://t.me/f_khusainov">
   <img src="https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" />    
 </a>&nbsp;
 <a href="mailto:farrukhbekkhusainov@gmail.com">
